@@ -1,6 +1,6 @@
 # GPTsummarizer - YouTube Video Summary and Question Answering
 
-This project uses OpenAI's Whisper API and Langchain to generate a summary of a YouTube video or answer a question about a YouTube video.
+This project uses OpenAI's Whisper API, GPT 3.5 and Langchain to generate a summary of a YouTube video or answer a question about a YouTube video.
 
 ## Features 🌟
 
