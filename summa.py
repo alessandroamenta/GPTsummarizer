@@ -80,14 +80,6 @@ def transcribe_audio_to_text(file_path, video_id):
     else:
         print("Audio file size must be under 25 MB.")
 
-# Function to Generate Answer from Transcript
-def generate_qa(api_key, url, question):
-    # ... (Same as your original code)
-
-# Function to Generate Summary from Transcript
-def generate_video_summary(api_key, url):
-    # ... (Same as your original code)
-
 
 # Function to Generate Answer from Transcript
 def generate_qa(api_key, url, question):
