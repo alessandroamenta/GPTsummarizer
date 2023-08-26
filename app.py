@@ -12,7 +12,7 @@ def main_app():
     # Sidebar
     with st.sidebar:
         st.markdown("### 🎬 VideoAnalyzer: Insights at a Glance")
-        st.video("https://www.youtube.com/watch?v=uuuv3ooY1WQ")
+        st.video("https://www.youtube.com/watch?v=gT1EExZkzMM")
         st.markdown("""
                     <div style="text-align: justify;">VideoAnalyzer allows you to quickly get the information you need from YouTube videos. 
                     Pose a question and receive an answer in under two minutes for just $0.006/min. 
